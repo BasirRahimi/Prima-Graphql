@@ -1,3 +1,7 @@
+# For Prima Football
+
+Just run `npm start-server`
+
 # Create a React website that uses a graphql API
 
 Use the provided graphql api (apollo server,) to create a React webpage that shows information about an upcoming football match. Initial teams arrangement, where and when it's played.
