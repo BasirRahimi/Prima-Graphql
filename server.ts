@@ -48,7 +48,7 @@ const mocks = {
     return {
       firstname: random_name({ gender: "male", first: true, seed }),
       lastname: random_name({ last: true, seed }),
-      height: 150 + (Math.random() * 50).toFixed(2),
+      height: (150 + (Math.random() * 50)).toFixed(2),
       dateOfBirth,
       squadNumber,
       nationality,
