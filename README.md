@@ -1,6 +1,7 @@
 # For Prima Football
-
-Just run `npm start-server`
+Run the following:
+`npm install`
+`npm start-server`
 
 # Create a React website that uses a graphql API
 
